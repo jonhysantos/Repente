@@ -87,7 +87,7 @@ section.imagem > p {
 }
 section#img01 {
     background-image: url(imagens/bule-de-café-antigo-azul-em-mesa-de-madeira-pexels-c-a3381.jpg);
-    background-position: right center;
+    background-position: center center;
     background-size: cover;
 }
 section#img02 {
